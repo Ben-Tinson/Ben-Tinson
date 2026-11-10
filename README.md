@@ -1,6 +1,6 @@
 # Ben Tinson
 
-I look after how a Manchester marketing agency uses AI, which mostly means building the agent pipelines it runs its audits and campaign operations on, with Python around them for the data handling. That work belongs to the agency, so it isn't here. What's here, or linked from here, is what I build in my own time.
+I look after how a Manchester marketing agency uses AI, which mostly means building the agent pipelines it runs its audits and campaign operations on, plus the Python that handles the data around them. That work belongs to the agency, so it isn't here. What's here, or linked from here, is what I build in my own time.
 
 Most of it is live but locked to a handful of email addresses, so the links will show you a sign-in page rather than the app. Happy to walk through any of them.
 
